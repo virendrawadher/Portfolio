@@ -79,11 +79,15 @@ hr{
 
 .navigation .brand {
     font-weight: bold;
+    display: inline;
 }
 
 .navigation ul{
     list-style: none;
     text-align: right;
+    display: inline;
+    padding-left: 55%;
+    
 }
 
 .navigation li{
@@ -127,6 +131,7 @@ hr{
     margin: auto;
     max-width: 350px;
     padding-top: 1rem;
+    text-align: center;
 }
 
 /* section */
