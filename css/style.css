@@ -16,6 +16,7 @@ body{
     margin: auto;
 }
 
+
 hr{
     margin: 2 rem 0;
 }
@@ -79,14 +80,13 @@ hr{
 
 .navigation .brand {
     font-weight: bold;
-    display: inline;
+    
 }
 
 .navigation ul{
     list-style: none;
     text-align: right;
-    display: inline;
-    padding-left: 55%;
+    
     
 }
 
